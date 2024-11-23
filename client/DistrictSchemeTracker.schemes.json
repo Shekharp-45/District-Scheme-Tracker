@@ -1,0 +1,35 @@
+[{
+  "govt_scheme": " Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+  "objective": "Financial Inclusion\nProviding access to financial services to the unbanked population\nPromoting savings habit among the poor",
+  "description": "PMJDY is a national mission launched by the Government of India in August 2014. It aims to provide universal access to banking facilities to all households in the country. Under this scheme, every household is encouraged to have at least one bank account. The scheme also provides a RuPay debit card, accident insurance cover, and an overdraft facility upon satisfactory operation of the account. The scheme targets poor and underprivileged sections of society who do not have access to banking facilities.",
+  "parameters": "Number of bank accounts opened\nAmount of money deposited in these accounts\nNumber of RuPay cards issued\nNumber of beneficiaries availing overdraft facility\nAmount of insurance claims disbursed"
+
+},
+{
+  "govt_scheme": "Swachh Bharat Mission (SBM)",
+  "objective": "Achieving universal sanitation coverage\nEradicating open defecation\nPromoting cleanliness and hygiene",
+  "description": "The Swachh Bharat Mission was launched by the Government of India on October 2, 2014, with the aim of achieving universal sanitation coverage and making India open defecation free by October 2, 2019, the 150th birth anniversary of Mahatma Gandhi. Under this scheme, individual household toilets, community and public toilets, and solid waste management systems are constructed. The scheme also includes behavior change campaigns to promote cleanliness and hygiene practices.",
+  "parameters": "Number of toilets constructed (household, community, and public)\nNumber of villages and cities declared open defecation free (ODF)\nAmount of solid waste managed (in tons)\nPercentage Behavior change indicators (community participation)\nAmount of Budget allocation and utilization(in ₹ millions)"
+  
+},
+{
+  "govt_scheme": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+  "objective": "Provide insurance coverage and financial support to farmers in the event of crop failure\nStabilize the income of farmers to ensure their continuance in farming\nEncourage farmers to adopt innovative and modern agricultural practices",
+  "description": "PMFBY was launched by the Government of India in January 2016. It aims to provide a comprehensive insurance cover against the failure of the crop, thus helping in stabilizing the income of farmers. The scheme provides insurance coverage for all stages of the crop cycle including pre-sowing to post-harvest. It covers risks such as drought, floods, pests, and diseases. The premium paid by farmers is very low, and the remaining part of the premium is subsidized by the government.",
+  "parameters": "Number of farmers insured\nNumber of hectares insured\nAmount of premium collected (in ₹ millions)\nNumber of claims filed\nAmount of claims disbursed (in ₹ millions)"
+
+},
+{
+  "govt_scheme": "National Food Security Act (NFSA)",
+  "objective": "Provide food and nutritional security to the poor\nEnsure access to adequate quantity of quality food at affordable prices",
+  "description": "The National Food Security Act (NFSA) was enacted by the Government of India in July 2013. The act aims to provide subsidized food grains to approximately two-thirds of India's population. Under this scheme, eligible households receive 5 kg of food grains per person per month at highly subsidized prices. The scheme targets the poor and vulnerable sections of society to ensure that no one suffers from hunger.",
+  "parameters": "Number of beneficiaries covered\nQuantity of food grains distributed (in metric tons)\nAmount of subsidy provided (in ₹ millions)\nNumber of fair price shops functioning\nPercentage of food grain leakage reduction"
+ 
+},
+{
+  "govt_scheme": "Beti Bachao Beti Padhao (BBBP)",
+  "objective": "Prevent gender-biased sex-selective elimination\nEnsure survival and protection of the girl child\nEnsure education and participation of the girl child",
+  "description": "Beti Bachao Beti Padhao was launched by the Government of India in January 2015. It aims to address the issue of the declining child sex ratio and the empowerment of women. The scheme focuses on changing societal attitudes and creating awareness about the importance of the girl child. It also emphasizes improving the efficiency of welfare services for girls across India.",
+  "parameters": "Percentage Improvement in child sex ratio (percentage increase)\nNumber of awareness campaigns conducted\nNumber of educational scholarships awarded to girls\nNumber of villages covered under the scheme\nPercentage Improvement in female literacy rates (percentage increase)"
+  
+}]

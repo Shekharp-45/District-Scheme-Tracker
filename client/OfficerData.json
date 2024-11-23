@@ -1,0 +1,163 @@
+{
+  "states": [
+    {
+      "stateName": "Maharashtra",
+      "districts": [
+        {
+          "districtName": "Solapur",
+          "officer": [
+            {
+              "officerName": "Ajay Chavan",
+              "officerEmail": "ajay.chavan@maharashtra.gov.in"
+            },
+            {
+              "officerName": "Aniket Patil",
+              "officerEmail": "aniket.patil@maharashtra.gov.in"
+            }
+          ],
+          "mapUrl": "https://example.com/solapur-map"
+        },
+        {
+          "districtName": "Pune",
+          "officer": [
+            {
+              "officerName": "Omkar Bhosale",
+              "officerEmail": "omkar.bhosale@maharashtra.gov.in"
+            }
+          ],
+          "mapUrl": "https://example.com/pune-map"
+        },
+        {
+          "districtName": "Sangli",
+          "officer": [
+            {
+              "officerName": "Pooja Chanshetti",
+              "officerEmail": "pooja.chanshetti@maharashtra.gov.in"
+            }
+          ],
+          "mapUrl": "https://example.com/sangli-map"
+        },
+        {
+          "districtName": "Mumbai",
+          "officer": [
+            {
+              "officerName": "Rahul Chavan",
+              "officerEmail": "rahul.chavan@maharashtra.gov.in"
+            }
+          ],
+          "mapUrl": "https://example.com/mumbai-map"
+        },
+        {
+          "districtName": "Thane",
+          "officer": [
+            {
+              "officerName": "Rohit Zalate",
+              "officerEmail": "rohit.zalate@maharashtra.gov.in"
+            }
+          ],
+          "mapUrl": "https://example.com/thane-map"
+        },
+        {
+          "districtName": "Nagpur",
+          "officer": [
+            {
+              "officerName": "Sakshi Swami",
+              "officerEmail": "sakshi.swami@maharashtra.gov.in"
+            }
+          ],
+          "mapUrl": "https://example.com/nagpur-map"
+        },
+        {
+          "districtName": "Nashik",
+          "officer": [
+            {
+              "officerName": "Vedika Kadam",
+              "officerEmail": "vedika.kadam@maharashtra.gov.in"
+            }
+          ],
+          "mapUrl": "https://example.com/nashik-map"
+        },
+        {
+          "districtName": "Aurangabad",
+          "officer": [
+            {
+              "officerName": "Anjali Swami",
+              "officerEmail": "anjali.swami@maharashtra.gov.in"
+            }
+          ],
+          "mapUrl": "https://example.com/aurangabad-map"
+        },
+        {
+          "districtName": "Kolhapur",
+          "officer": [
+            {
+              "officerName": "Rohini Koli",
+              "officerEmail": "rohini.koli@maharashtra.gov.in"
+            }
+          ],
+          "mapUrl": "https://example.com/kolhapur-map"
+        },
+        {
+          "districtName": "Satara",
+          "officer": [
+            {
+              "officerName": "Rahul Kamble",
+              "officerEmail": "rahul.kamble@maharashtra.gov.in"
+            }
+          ],
+          "mapUrl": "https://example.com/satara-map"
+        },
+        {
+          "districtName": "Ratnagiri",
+          "officer": [
+            {
+              "officerName": "Nishant Wale",
+              "officerEmail": "nishant.wale@maharashtra.gov.in"
+            }
+          ],
+          "mapUrl": "https://example.com/ratnagiri-map"
+        },
+        {
+          "districtName": "Ahmednagar",
+          "officer": [
+            {
+              "officerName": "Sakshi Hajare",
+              "officerEmail": "sakshi.hajare@maharashtra.gov.in"
+            }
+          ],
+          "mapUrl": "https://example.com/ahmednagar-map"
+        },
+        {
+          "districtName": "Amravati",
+          "officer": [
+            {
+              "officerName": "Ravi Shinde",
+              "officerEmail": "ravi.shinde@maharashtra.gov.in"
+            }
+          ],
+          "mapUrl": "https://example.com/amravati-map"
+        },
+        {
+          "districtName": "Jalgaon",
+          "officer": [
+            {
+              "officerName": "Anil Mali",
+              "officerEmail": "anil.mali@maharashtra.gov.in"
+            }
+          ],
+          "mapUrl": "https://example.com/jalgaon-map"
+        },
+        {
+          "districtName": "Beed",
+          "officer": [
+            {
+              "officerName": "Sushrut Mhetras",
+              "officerEmail": "sushrut.mhetras@maharashtra.gov.in"
+            }
+          ],
+          "mapUrl": "https://example.com/beed-map"
+        }
+      ]
+    }
+  ]
+}
