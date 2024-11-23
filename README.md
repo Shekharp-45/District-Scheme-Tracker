@@ -50,27 +50,3 @@ Deployment: Vercel (Frontend), Render (Backend), MongoDB Atlas (Database)
 Authentication: JWT and bcrypt
 
 
-## Installation
-Clone the repository:
-git clone https://github.com/yourusername/DistrictSchemeTracker.git
-Navigate to the project directory:
-
-cd DistrictSchemeTracker
-Install frontend dependencies:
-cd client
-npm install
-Install backend dependencies:
-cd ../server
-npm install
-Usage
-Start the backend server:
-bash
-Copy code
-cd server
-npm start
-Start the frontend application:
-bash
-Copy code
-cd ../client
-npm start
-Open your browser and navigate to http://localhost:3000.
